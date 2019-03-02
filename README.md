@@ -29,7 +29,9 @@ Use the `serve` script.
 ```
 yarn serve
 ```
-Your console should now tell you that the server is running on port 4000. You should be able to navigate to `http://localhost:4000` in a browser to view the app.
+Your console should now tell you that the server is running on port 4000. You should be able to navigate to `http://localhost:4000/react` in a browser to view the app.
+
+As a fun bonus, [GraphiQL](https://github.com/graphql/graphiql) will be viewable at `http://localhost:4000/api`.
 
 >NOTE: The bundler is really just there to transpile JSX with babel (using `@babel/preset-react`). Please use a modern browser so there aren't any issues with JS syntax.
 
