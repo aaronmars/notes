@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Empty NoteList is rendered 1`] = `<div />`;
+
+exports[`Populated NoteList is rendered 1`] = `
+<div>
+  <Note
+    id="id1"
+    text="Note1 text"
+    title="Note1"
+  />
+  <Note
+    id="id2"
+    text="Note2 text"
+    title="Note2"
+  />
+</div>
+`;

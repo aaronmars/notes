@@ -1,0 +1,6 @@
+dist
+server/db.json
+node_modules
+yarn-error.log
+.cache
+.vscode
